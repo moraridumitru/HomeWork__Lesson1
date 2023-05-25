@@ -1,4 +1,4 @@
-public class ilovejava {
+public class Ilovejava {
     public static void main(String[] args) {
         String phrase = "I love java";
 
