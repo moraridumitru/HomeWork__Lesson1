@@ -1,4 +1,4 @@
-public class IloveJava {
+public class LoveJava {
     public static void main(String[] args) {
         String phrase = "I love java";
 
@@ -27,4 +27,3 @@ public class IloveJava {
         System.out.println("I love java : " + fr + " este de tip String");
     }
 }
-
